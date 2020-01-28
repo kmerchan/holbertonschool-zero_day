@@ -1,1 +1,1 @@
-This project is to practice my first push to GitHub for Holberton School Project on Day 0.# holbertonschool_zero-day
+This project is to practice my first push to GitHub for Holberton School Project on Day 0.
