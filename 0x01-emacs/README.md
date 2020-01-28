@@ -1,0 +1,1 @@
+This project describes various emacs commands to fulfill assignment tasks for Holberton School 0x01.
