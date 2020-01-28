@@ -1,0 +1,1 @@
+This project is to practice making directories in repositories through GitHub.  It also contains the uname for the Ubuntu VM ssh.
