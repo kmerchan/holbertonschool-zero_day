@@ -1,0 +1,1 @@
+This directory contains files with commands for vi as part of Holberton's Day 0 0x02-vi assignment.
